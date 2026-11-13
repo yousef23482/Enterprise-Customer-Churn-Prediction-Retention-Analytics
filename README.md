@@ -1,0 +1,2 @@
+# Enterprise-Customer-Churn-Prediction-Retention-Analytics
+Enterprise Customer Churn Prediction &amp; Retention Analytics: Built an end-to-end predictive machine learning pipeline from a normalized relational SQLite database, utilizing advanced SQL CTEs, Pandas feature engineering, and a Random Forest Classifier to identify at-risk customers and optimize decision thresholds to maximize minority-class recall. 
